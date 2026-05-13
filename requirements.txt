@@ -1,11 +1,10 @@
 streamlit
 feedparser
+duckduckgo-search
 requests
+beautifulsoup4
 pandas
 plotly
-transformers
-torch
-numpy
 # Opcional para Google Sheets:
 # google-auth
 # google-auth-oauthlib
