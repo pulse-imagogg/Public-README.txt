@@ -1,4 +1,34 @@
-# Byte-compiled / optimized / DLL files
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data/Logs (si generas archivos locales)
+*.csv
+*.db
+*.sqlite
+*.log# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
