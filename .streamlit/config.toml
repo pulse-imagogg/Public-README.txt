@@ -1,0 +1,27 @@
+[theme]
+# Color principal: Úsalo para botones y enlaces. 
+# He puesto un Azul Institucional (#003B5C) común en ONGs globales.
+# 💡 TIP: Si el logo de IMAGOGG tiene otro color, abre su web, haz clic derecho 
+# en el logo -> Inspeccionar -> y copia el HEX para reemplazar este valor.
+primaryColor = "#003B5C"
+
+# Fondo del contenido principal
+backgroundColor = "#FFFFFF"
+
+# Fondo de la barra lateral y encabezados secundarios
+secondaryBackgroundColor = "#F0F4F8"
+
+# Color del texto
+textColor = "#262730"
+
+# Tipografía (Streamlit Cloud usa sans-serif por defecto, pero es bueno definirlo)
+font = "sans serif"
+
+[server]
+# Configuración para despliegue limpio
+headless = true
+port = 8501
+
+[browser]
+# Desactiva recolección de datos para mayor privacidad
+gatherUsageStats = false
