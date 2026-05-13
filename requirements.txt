@@ -1,0 +1,13 @@
+streamlit
+feedparser
+requests
+beautifulsoup4
+transformers
+torch
+pandas
+numpy
+# Opcional para Google Sheets:
+# google-auth
+# google-auth-oauthlib
+# google-auth-httplib2
+# google-api-python-client

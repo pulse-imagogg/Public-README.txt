@@ -1,0 +1,7 @@
+pulse-imagog-mvp/
+├── app.py                 # Streamlit app (interfaz)
+├── scraper.py             # Recolecta de fuentes RSS
+├── analyzer.py            # Análisis de sentimiento (HF free o reglas)
+├── requirements.txt       # Dependencias gratuitas
+├── README_ENTREGA.md      # Documentación para Isabel
+└── .streamlit/config.toml # Config para deploy en Cloud
